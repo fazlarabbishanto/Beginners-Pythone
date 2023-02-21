@@ -1,9 +1,4 @@
-my_boolean = True
-print( my_boolean )
-True
-
-print( 2 == 3)
-False
-
-print("hello" == "hello")
-True
+open=True
+closed=False
+print(open)
+print(closed)
