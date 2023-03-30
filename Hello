@@ -1,0 +1,4 @@
+first_name="fazla"
+last_name="rabbi"
+full_name=f"{first_name} {last_name}".title()
+print(f"Hello, {full_name}!")
